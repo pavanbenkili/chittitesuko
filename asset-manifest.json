@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chittitesuko/static/css/main.231207c6.css",
+    "main.js": "/chittitesuko/static/js/main.a29514cb.js",
+    "static/js/453.dad11d84.chunk.js": "/chittitesuko/static/js/453.dad11d84.chunk.js",
+    "index.html": "/chittitesuko/index.html",
+    "main.231207c6.css.map": "/chittitesuko/static/css/main.231207c6.css.map",
+    "main.a29514cb.js.map": "/chittitesuko/static/js/main.a29514cb.js.map",
+    "453.dad11d84.chunk.js.map": "/chittitesuko/static/js/453.dad11d84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231207c6.css",
+    "static/js/main.a29514cb.js"
+  ]
+}
